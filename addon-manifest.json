@@ -1,0 +1,11 @@
+{
+  "id": "steven_o_matic",
+  "api": {
+    "config_vars": [ "STEVEN_O_MATIC_URL", "STEVEN_O_MATIC_ADDITIONAL_VALUE" ],
+    "username": "heroku",
+    "password": "b1EWrHYXE1R5J71D",
+    "sso_salt": "9jCF4liQdNanKiSm",
+    "production": "https://yourapp.com/",
+    "test": "http://localhost:4567/"
+  }
+}
