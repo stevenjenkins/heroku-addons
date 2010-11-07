@@ -1,5 +1,15 @@
 This project contains a sample Heroku add-on manifest and some
 sample add-on implementations.
 
+To use:
+
+  ruby -rubygems simple-addon.rb
+
+and in another window or terminal:
+
+  kensa test provision
+    and
+  kensa test deprovision 42
+
 Feedback and pull requests welcomed.
 
